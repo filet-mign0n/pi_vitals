@@ -1,0 +1,7 @@
+*~
+*.swp
+*.swo
+*.log
+pigo
+util/vcgencmd.sh
+util/cputemp.sh
